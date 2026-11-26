@@ -1,0 +1,11 @@
+# executaveis gerados por Build-Exe.ps1 (recriados a cada build)
+dist/
+*.exe
+
+# saidas de diagnostico e capturas de teste (podem ter nome do PC e do usuario)
+Diagnostico_*.txt
+capturas/
+*.log
+
+# versoes antigas
+legado/
