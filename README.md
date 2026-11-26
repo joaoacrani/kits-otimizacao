@@ -1,5 +1,7 @@
 # Kits de Otimização do Windows
 
+[![Sintaxe](https://github.com/joaoacrani/kits-otimizacao/actions/workflows/sintaxe.yml/badge.svg)](https://github.com/joaoacrani/kits-otimizacao/actions/workflows/sintaxe.yml) ![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
+
 ## Sumário
 
 1. [Objetivo](#1-objetivo)
