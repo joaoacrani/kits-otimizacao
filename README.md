@@ -135,3 +135,7 @@ Convenções:
 - Toda ação que altera o sistema registra no log, e no Kit Personal tem desfazer.
 - O Kit Business só mexe no que é do usuário logado (perfil, `HKCU`, Lixeira), para funcionar sem administrador e sem conflitar com políticas da empresa.
 - Depois de mudar um `.ps1`, gere o `.exe` de novo: ele leva o script embutido.
+
+## Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE).
